@@ -1,2 +1,2 @@
 # hello-github
-test
+テスト用のリポジトリを作ってみる
